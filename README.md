@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce app**
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-- 🌱 Mastering Flutter: Responsive & Adaptive UI Design [Arabic]
+- 🌱 Studing Mastering Flutter: Responsive & Adaptive UI Design course
 
 - 💬 Ask me about **Flutter development, mobile development and AI**
 
